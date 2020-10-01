@@ -12,7 +12,7 @@
  * @todo Continue 3.
  */
 
-const js2flowchart = require('../dist/js2flowchart.js');
+const js2flowchart = require('../a/js2flowchart.js');
 const program = require('commander');
 
 const fs = require('fs'),
